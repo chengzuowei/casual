@@ -5,3 +5,6 @@ b =3
 
 def uuu():
 	print(111111111111)
+
+def sanpao():
+	print("我三炮也改改咯")
